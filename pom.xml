@@ -12,5 +12,6 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>database-mysql</module>
     </modules>
 </project>
