@@ -1,3 +1,9 @@
 [submodule "database-mysql"]
 	path = database-mysql
 	url = https://github.com/WeisonWei/database-mysql.git
+[submodule "database-redis"]
+	path = database-redis
+	url = https://github.com/WeisonWei/database-redis.git
+[submodule "database-es"]
+	path = database-es
+	url = https://github.com/WeisonWei/database-es.git
